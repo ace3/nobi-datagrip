@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Downloads/bemndb01_02_2024.sql" dialect="MariaDB" />
+    <file url="file://$USER_HOME$/Downloads/crypto_reference_rate.sql" dialect="MariaDB" />
+    <file url="file://$USER_HOME$/Downloads/dbmaster.sql" dialect="MariaDB" />
+    <file url="file://$USER_HOME$/Downloads/dbmaster.sql.gz" dialect="MariaDB" />
+    <file url="file://$USER_HOME$/Downloads/earn_houston_db26_02_2024.sql" dialect="MariaDB" />
+    <file url="file://$USER_HOME$/Downloads/nobi_price.sql" dialect="MariaDB" />
+    <file url="file://$USER_HOME$/Downloads/prod_slave_3-dbmaster-2024_03_23_19_59_00.sql" dialect="MariaDB" />
+    <file url="file://$PROJECT_DIR$/audit/current_balance.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/oracle/monitoring_price.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/trade/get_top_10_trading_user.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/wallet/audit_wallet.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/wallet/loyalty.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
